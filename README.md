@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maedeh-mahabadi
-- 🌱 I’m currently learning react 
+- 🌱 
 
 <!---
 Maedeh-mahabadi/Maedeh-mahabadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
